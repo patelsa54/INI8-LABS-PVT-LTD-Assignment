@@ -14,18 +14,18 @@ This is a full-stack registration system with a backend in Node.js and MySQL, an
     git clone https://github.com/patelsa54/INI8-LABS-PVT-LTD-Assignment.git
     cd registration-system/Backend
 
-2. Install the backend dependencies:
+3. Install the backend dependencies:
 
     npm install
 
-3. Configure .env file in the backend folder with the your own credentials:
+4. Configure .env file in the backend folder with the your own credentials:
 
     DB_HOST=localhost
     DB_USER=your_mysql_username
     DB_PASSWORD=your_mysql_password
     DB_DATABASE=registration_db
 
-4. Start the backend server:
+5. Start the backend server:
 
     node index.js
 
