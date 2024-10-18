@@ -11,7 +11,7 @@ This is a full-stack registration system with a backend in Node.js and MySQL, an
 
 1. Clone the repository:
    
-    git clone https://github.com/patelsa54/INI8-LABS-PVT-LTD-Assignment.git
+    git clone https://github.com/patelsa54/INI8-LABS-PVT-LTD-Assignment.git <br>
     cd registration-system/Backend
 
 3. Install the backend dependencies:
