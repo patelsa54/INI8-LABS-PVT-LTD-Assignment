@@ -12,7 +12,7 @@ This is a full-stack registration system with a backend in Node.js and MySQL, an
 1. Clone the repository:
    
     git clone https://github.com/patelsa54/INI8-LABS-PVT-LTD-Assignment.git <br>
-    cd registration-system/Backend
+    cd Backend
 
 3. Install the backend dependencies:
 
@@ -20,9 +20,9 @@ This is a full-stack registration system with a backend in Node.js and MySQL, an
 
 4. Configure .env file in the backend folder with the your own credentials:
 
-    DB_HOST=localhost
-    DB_USER=your_mysql_username
-    DB_PASSWORD=your_mysql_password
+    DB_HOST=localhost<br>
+    DB_USER=your_mysql_username<br>
+    DB_PASSWORD=your_mysql_password<br>
     DB_DATABASE=registration_db
 
 5. Start the backend server:
@@ -42,10 +42,10 @@ This is a full-stack registration system with a backend in Node.js and MySQL, an
 3. Fill out the registration form and submit it. The data will be sent to the backend API.
 
 ##  API Endpoints
-POST /register: Create a new registration.
-GET /registrations: Retrieve all registrations.
-GET /registration/:id: Retrieve a single registration by ID.
-PUT /registration/:id: Update a registration by ID.
+POST /register: Create a new registration.<br>
+GET /registrations: Retrieve all registrations.<br>
+GET /registration/:id: Retrieve a single registration by ID.<br>
+PUT /registration/:id: Update a registration by ID.<br>
 DELETE /registration/:id: Delete a registration by ID.
 
 
